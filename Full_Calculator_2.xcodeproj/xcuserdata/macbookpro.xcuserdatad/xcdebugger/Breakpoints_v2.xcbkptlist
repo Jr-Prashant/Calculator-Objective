@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DDCC4A5A-F01A-4EF3-9642-0CC56C0A3F0A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BE5B765-3435-46BB-9271-AEF72D1AA869"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Full_Calculator_2/ViewController.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "textLabel"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0643C61A-6D14-4DBC-97B4-C136F65D80A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Full_Calculator_2/Scientific/ScientificViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "-equalButton:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0643C61A-6D14-4DBC-97B4-C136F65D80A6 - d358867f6b5370cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScientificViewController equalButton:]"
+                  moduleName = "Full_Calculator_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Obective%20c/Full_Calculator_2/Full_Calculator_2/Scientific/ScientificViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "3844">
+               </Location>
+               <Location
+                  uuid = "0643C61A-6D14-4DBC-97B4-C136F65D80A6 - d358867f6b5370cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScientificViewController equalButton:]"
+                  moduleName = "Full_Calculator_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Obective%20c/Full_Calculator_2/Full_Calculator_2/Scientific/ScientificViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "3876">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAA7AD4B-F465-4244-927C-EC76474952B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Full_Calculator_2/Scientific/ScientificViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "150"
+            endingLineNumber = "150"
+            landmarkName = "-equalButton:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FAA7AD4B-F465-4244-927C-EC76474952B5 - d358867f6b5370cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScientificViewController equalButton:]"
+                  moduleName = "Full_Calculator_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Obective%20c/Full_Calculator_2/Full_Calculator_2/Scientific/ScientificViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "3844">
+               </Location>
+               <Location
+                  uuid = "FAA7AD4B-F465-4244-927C-EC76474952B5 - d358867f6b5370cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ScientificViewController equalButton:]"
+                  moduleName = "Full_Calculator_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Developer/Obective%20c/Full_Calculator_2/Full_Calculator_2/Scientific/ScientificViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "3876">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
