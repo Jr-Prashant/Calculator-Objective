@@ -31,9 +31,9 @@ https://github.com/Jr-Prashant/Calculator-Objective/assets/151605109/8fbc2f2d-ce
 Welcome to the Objective-C Calculator, a powerful yet straightforward calculator app developed using the Objective-C programming language. This is a simple calculator app which works correctly in only one operator. This app is designed to provide users with essential arithmetic functions and some advanced scientific features in a user-friendly interface.
 
 ## Key Features
-* <strong>Basic Arithmetic:</strong>Addition, subtraction, multiplication, and division.
-* <strong>Scientific Functions:</strong> Trigonometric, logarithmic, and factorial.
-* <strong>User-Friendly Interface:</strong> Intuitive design for easy navigation and efficient calculations.
+* **Basic Arithmetic:** Addition, subtraction, multiplication, and division.
+* **Scientific Functions:** Trigonometric, logarithmic, and factorial.
+* **User-Friendly Interface:** Intuitive design for easy navigation and efficient calculations.
 
 ## Technology Used
 1. `Objective-C` Programming Langusge.
