@@ -7,7 +7,7 @@ https://github.com/Jr-Prashant/Calculator-Objective/assets/151605109/8fbc2f2d-ce
 <img width="331" alt="Screenshot 2023-11-22 at 3 04 41 PM" src="https://github.com/Jr-Prashant/Calculator-Objective/assets/151605109/b9df702b-6a49-49fa-9657-6e8b73d5af88">
 <p> This is main screen of my calculator(Standard Calculator). Here you can perform any simple operations based on one operator and it'll give you a appropriate result.</p>
 
-2. Perform Calculation in standard Calculator
+2. Perform Calculation in Standard Calculator
 
 <img width="320" alt="Screenshot 2023-11-22 at 3 05 09 PM" src="https://github.com/Jr-Prashant/Calculator-Objective/assets/151605109/2c216b86-70d3-46f8-9ad2-40644788f315">
 
@@ -18,6 +18,13 @@ https://github.com/Jr-Prashant/Calculator-Objective/assets/151605109/8fbc2f2d-ce
 5. Scientific Calculator
 
 <img width="325" alt="Screenshot 2023-11-22 at 3 05 30 PM" src="https://github.com/Jr-Prashant/Calculator-Objective/assets/151605109/e7b1c2b3-0eed-4a3a-a6c5-7220c600d842">
+<p> This is the Scientific Calculator. Here you can perform any scientific operations based on one operator and it'll give you a appropriate result.</p>
+
+6. Perform Sin Calculation in Scientific Calculator
+<img width="316" alt="Screenshot 2023-11-22 at 3 06 04 PM" src="https://github.com/Jr-Prashant/Calculator-Objective/assets/151605109/f86bddd6-3a38-45b5-afda-aca157b46c50">
+
+7. Answer in Scientific Calculator
+<img width="321" alt="Screenshot 2023-11-22 at 3 06 12 PM" src="https://github.com/Jr-Prashant/Calculator-Objective/assets/151605109/612e47a5-db7f-4555-84a2-a23250e20572">
 
 
 ## Overview
